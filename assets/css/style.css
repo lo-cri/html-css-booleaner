@@ -1,0 +1,51 @@
+main {
+    margin: 0;
+    padding: 5px;
+}
+
+body {
+    font-size: 16px;
+}
+
+
+#banner {
+    background-image: url('../img/pattern.png');
+    background-size: 15%;
+    background-color: lightskyblue;
+}
+
+h1{
+    font-size: 26px;
+}
+
+.starred{
+    font-size: 14px;
+}
+
+table{
+    text-align: justify;
+    border-spacing: 0px;
+}
+
+thead{
+    background-color: aqua;
+}
+
+.cristina{
+    background-color: lightskyblue;
+}
+
+#img1{
+    width: 300px;
+    height: 300px;
+    margin-bottom: -82px;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+}
+
+#img2{
+    width: 300px;
+    height: 300px;
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+}
